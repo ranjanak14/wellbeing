@@ -101,12 +101,12 @@
                 </tr>
                 <tr class="menu-row" >
                     <td class="menu-btn menu-icon-exercise">
-                        <a href="appointment.php" class="non-style-link-menu"><div><p class="menu-text">Physical Health Manager</p></a></div>
+                        <a href="https://fitnessbuddy4all.netlify.app/" class="non-style-link-menu"><div><p class="menu-text">Physical Health Manager</p></a></div>
                     </td>
                 </tr>
                 <tr class="menu-row" >
                     <td class="menu-btn menu-icon-brain">
-                        <a href="appointment.php" class="non-style-link-menu"><div><p class="menu-text">Mental Health Manager</p></a></div>
+                        <a href="https://mind-peach.vercel.app/" class="non-style-link-menu"><div><p class="menu-text">Mental Health Manager</p></a></div>
                     </td>
                 </tr>
                 <tr class="menu-row" >
